@@ -1,0 +1,42 @@
+.page{
+    display: flex;
+}
+
+.leftPanel{
+    width: 30%;
+    height: 100%;
+}
+
+.rightPanel{
+    padding: 5px;;
+    float: right;
+    width:70%;
+    height: 100%;
+}
+
+.story{
+    display:flex;
+    padding: 5px;
+    justify-content: space-evenly;
+    box-shadow: 3px 3px 8px gray;
+}
+
+.bar{
+    display: flex;
+    margin-left: 20px;
+    border-radius: 30px;;
+    box-shadow: 3px 3px 8px gray;
+}
+.Area{
+    display: flex;
+    margin: 30px;
+}
+
+.card{
+    box-shadow: 0 0 7px gray;
+}
+
+.nav-item{
+    margin-left: 10%;
+}
+
